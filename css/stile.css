@@ -1,0 +1,31 @@
+.login{
+    margin: 50px auto;
+    padding: 50px;
+    background: rgba(54, 139, 184, 0.867);
+    width: fit-content;
+}
+
+.login input{
+    margin: 20px;
+    padding: 10px;
+
+}
+.login  .log-bt{
+    width: 100%;
+    background: #4435aa;
+    color: #fff;
+    padding: 10px;
+
+}
+h2{
+    text-align: center;
+color: white;
+    margin: 50px;
+    padding: 10px;
+    background-color:blue;
+    
+
+}
+a{
+    text-align: center;
+}
